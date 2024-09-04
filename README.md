@@ -7,7 +7,7 @@ actual en grados centigrados, el porcentaje de humedad, un icono del estado del 
   - [Css](https://developer.mozilla.org/es/docs/Web/CSS): Lenguaje de estilos para dar presentacion al proyecto web.
   - [Javascript](https://developer.mozilla.org/es/docs/Web/javascript): Lenguaje de programación para desarrollo de forntend y Backend.
 
-## Imagen de la aplicación del clima
+## Imagenes de la aplicación del clima
 
 ![Imagen de la aplicación de clima](./images/clima1.png)
 ![Imagen de la aplicación de clima](./images/clima2.png)
