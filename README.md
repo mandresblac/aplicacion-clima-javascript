@@ -9,4 +9,5 @@ actual en grados centigrados, el porcentaje de humedad, un icono del estado del 
 
 ## Imagen de la calculadora
 
-![Imagen de la calculadora](./img/clima.png)
+![Imagen de la aplicación de clima](./img/clima1.png)
+![Imagen de la aplicación de clima](./img/clima2.png)
