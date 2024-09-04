@@ -1,5 +1,6 @@
 # Descripción del Repositorio
-- Este repositorio contiene un proyecto de una aplicacion para saber el clima a nivel mundial utilizando la API de OpenWeather que proporciona datos meteorológicos globlaes en tiempo real.
+- Este repositorio contiene un proyecto de una aplicacion para saber el clima a nivel mundial utilizando la API de OpenWeather que proporciona datos meteorológicos globales en tiempo real.
+
 Se ingresa en el cuadro de busqueda el nombre de cualquier ciudad del mundo, se da clic sobre el boton "buscar" y se muestran el nombre de la ciudad y las iniciales del país, la tempueratura
 actual en grados centigrados, el porcentaje de humedad, un icono del estado del clima y la descripción meteorologica. 
 - Para la realizacion de este proyecto se utilizaron las siguientes tecnologias:
