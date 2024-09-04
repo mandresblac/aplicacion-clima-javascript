@@ -35,12 +35,14 @@ function mostrarDatosClima(data) {
   // Creamos un h2
   const ciudadTitulo = document.createElement("h2");
   ciudadTitulo.textContent = `${nombreCiudad}, ${nombrePais}`;
+  ciudadTitulo.classList.add("mg-inferior"); // Agregamos una clase desde el Css
 
   // Creamos un p
   const temperaturaInfo = document.createElement("p");
   temperaturaInfo.textContent = `La temperatura es: ${Math.round(
     temperatura - diferenciaKelvin
   )}°C`;
+  temperaturaInfo.classList.add("mg-inferior"); // Agregamos una clase desde el Css
 
   // Creamos un p
   const humedadInfo = document.createElement("p");
