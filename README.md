@@ -8,6 +8,8 @@
   - [Html](https://developer.mozilla.org/es/docs/Web/HTML): Lenguaje de marcado para esrtuctura basica del proyecto en la web.
   - [Css](https://developer.mozilla.org/es/docs/Web/CSS): Lenguaje de estilos para dar presentacion al proyecto web.
   - [Javascript](https://developer.mozilla.org/es/docs/Web/javascript): Lenguaje de programación para desarrollo de forntend y Backend.
+  - [OpenWeather](https://openweathermap.org/city/2643743): Es un servicio en línea, que proporciona datos meteorológicos globales a través de su API, incluidos datos 
+    meteorológicos actuales, pronósticos, predicciones inmediatas y datos meteorológicos históricos.
 
 ## Link del proyecto en la web
 - [App del clima](https://app-de-clima-js.netlify.app/).
